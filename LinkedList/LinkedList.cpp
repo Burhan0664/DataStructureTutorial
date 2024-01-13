@@ -24,6 +24,22 @@ void Insert(int data) {
 
 
 }
+struct Node* Struct_Insert(int data) {
+    Node* temp = new Node();
+    temp->data = data;
+
+    if (head == NULL)
+    {
+        head = temp;
+    }
+    else
+    {
+        temp->next = head;
+        head = temp;
+    }
+    return head;
+
+}
 void Delete(int n) {
     Node* temp = new Node();
     temp = head;
@@ -72,13 +88,23 @@ void Print() {
         temp = temp->next;
     }
 }
+void PrintRecursion(Node* p) {
+    if (p==NULL)
+    {
+        return;
+    }
+    printf("%d ", p->data);
+    PrintRecursion(p->next);
+    
+}
 int main()
 {
     head = NULL;
-    Insert(5);
-    Insert(3);
-    Delete(1);
-    Print();
+    head =Struct_Insert(5);
+    head =Struct_Insert(3);
+    head = Struct_Insert(7);
+
+    PrintRecursion(head);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
