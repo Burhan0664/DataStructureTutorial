@@ -21,8 +21,6 @@ void Insert(int data) {
         temp->next = head;
         head = temp;
     }
-
-
 }
 struct Node* Struct_Insert(int data) {
     Node* temp = new Node();
@@ -50,19 +48,7 @@ void Delete(int n) {
         return;
 
     }
-    else if (n == 2)
-    {
-        for (int i = 0; i < n - 3; i++)
-        {
-            temp = temp->next;
-        }
-        Node* temp1 = new Node();
-
-        temp1 = temp->next;
-        temp->next = temp1->next;
-        free(temp1);
-
-    }
+   
     else
     {
         for (int i = 0; i < n - 2; i++)
@@ -103,7 +89,7 @@ int main()
     head =Struct_Insert(5);
     head =Struct_Insert(3);
     head = Struct_Insert(7);
-
+    Delete(2);
     PrintRecursion(head);
 }
 
