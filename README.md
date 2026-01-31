@@ -42,7 +42,7 @@ DataStructureTutorial/
 ## 🚀 Nasıl Başlanır
 
 1. Reposu klonlayın:
-   ```bash
+```bash
    git clone https://github.com/Burhan0664/DataStructureTutorial.git
 ````
 
