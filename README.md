@@ -74,9 +74,9 @@ Projeyi geliştirmek istersen:
 1. Reposu fork’layın.
 2. Yeni bir branch açın:
 
-   ```bash
+```bash
    git checkout -b feature/yeni-veri-yapisi
-   ```
+```
 3. Değişiklikleri commit’leyin.
 4. Pull request gönderin.
 
