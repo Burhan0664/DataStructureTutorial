@@ -1,8 +1,4 @@
-Aşağıda **Burhan0664/DataStructureTutorial** reposuna göre hazırlanmış, **doğru Markdown syntax’ıyla** yazılmış ve **README.md dosyasına doğrudan kopyalanabilir** bir içerik bulabilirsin.
 
----
-
-```markdown
 # DataStructureTutorial
 
 Bu proje, **veri yapıları (Data Structures)** teorik bilgisini uygulamalı hâle dönüştürmek için hazırlanmıştır.  
