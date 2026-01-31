@@ -82,6 +82,5 @@ Projeyi geliştirmek istersen:
 
 ---
 
-```
 
 [1]: https://github.com/Burhan0664/DataStructureTutorial "GitHub - Burhan0664/DataStructureTutorial: in this project ı convert the theorical information to application with c and c++ and contain all of data structure curriculum , I will complete as possible as ı can"
