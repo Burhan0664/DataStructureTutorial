@@ -67,20 +67,7 @@ Aşağıdaki veri yapılarına örnek C/C++ uygulamaları içerir:
 
 ---
 
-## 🤝 Katkıda Bulunma
 
-Projeyi geliştirmek istersen:
-
-1. Reposu fork’layın.
-2. Yeni bir branch açın:
-
-```bash
-   git checkout -b feature/yeni-veri-yapisi
-```
-3. Değişiklikleri commit’leyin.
-4. Pull request gönderin.
-
----
 
 
 [1]: https://github.com/Burhan0664/DataStructureTutorial "GitHub - Burhan0664/DataStructureTutorial: in this project ı convert the theorical information to application with c and c++ and contain all of data structure curriculum , I will complete as possible as ı can"
