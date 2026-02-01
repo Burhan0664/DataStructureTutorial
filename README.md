@@ -67,6 +67,13 @@ Aşağıdaki veri yapılarına örnek C/C++ uygulamaları içerir:
 
 ---
 
+## 👨‍💻 Geliştirici
+
+**Burhan Çavdaroğlu**  
+📍 Ankara, Türkiye  
+🔗 LinkedIn: https://www.linkedin.com/in/burhancavdaroglu/
+
+
 
 
 
