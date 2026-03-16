@@ -17,7 +17,7 @@ Projede C++ dili ile:
 - Kuyruk (Queue)  
 - Diğer veri yapıları  
 
-gibi temel veri yapıları örnek kodlarla gösterilmektedir. :contentReference[oaicite:1]{index=1}
+gibi temel veri yapıları örnek kodlarla gösterilmektedir. 
 
 ---
 
