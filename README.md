@@ -2,7 +2,7 @@
 # DataStructureTutorial
 
 Bu proje, **veri yapıları (Data Structures)** teorik bilgisini uygulamalı hâle dönüştürmek için hazırlanmıştır.  
-C ve C++ dillerinde temel veri yapıları ve algoritmaların uygulamaları yer almaktadır ve Data Structure müfredatı kapsanacak şekilde geliştirilmesi planlanmaktadır. :contentReference[oaicite:0]{index=0}
+C ve C++ dillerinde temel veri yapıları ve algoritmaların uygulamaları yer almaktadır ve Data Structure müfredatı kapsanacak şekilde geliştirilmesi planlanmaktadır. 
 
 ---
 
